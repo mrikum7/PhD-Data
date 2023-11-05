@@ -9,5 +9,5 @@ Thesis
 - Phase 2
   - Experiment 3
   - Experiment 4
--Phase 3
+- Phase 3
   - Experiment 5
